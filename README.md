@@ -1,19 +1,6 @@
-# The Ultimate Spring Boot Course
+# Spring Fundamentals Learning Project
 
-This repository contains the starter project for Part 2 of my Spring Boot course:
+A hands-on learning repository for practicing **Spring fundamentals**, configuration, beans, and core application wiring) using manual code and **IntelliJ IDEA**.
 
-[https://codewithmosh.com/p/spring-boot-building-apis](https://codewithmosh.com/p/spring-boot-building-apis)
-
-## About this Repository 
-
-This project is based on the final project from Part 1 of the course, but I’ve cleaned it up and removed unnecessary playground code so we can focus on building APIs in Part 2.
-
-You’ll be cloning this repository and coding along with me as we extend the project.
-
-To get started, clone the repository to your local machine:
-
-```sh
-git clone https://github.com/mosh-hamedani/spring-api-starter
-
-cd spring-api
-```
+## Reference
+- Video tutorial: [Spring Boot Project: Build a REST API for an E-commerce Platform]([http://www.youtube.com/watch?v=cFYNHWIAx3Q](https://youtu.be/EWd3_I4X32g?si=xLYlsjOaYaoKS6bG)) (Automation Step by Step)
